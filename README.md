@@ -1,5 +1,5 @@
 # Single_port_ram
-This project implements a 4x16 Synchronous Single-Port RAM in Verilog along with its testbench. 
+This implements a 4x16 Synchronous Single-Port RAM in Verilog along with its testbench. 
 The RAM is synchronous, meaning all operations (read and write) are triggered on the positive edge of the clock.
 
 Module: sync_ram
